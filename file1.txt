@@ -2,3 +2,4 @@ line1
 line2
 commit with fixes AB#
 commit with fixes #4
+new line
