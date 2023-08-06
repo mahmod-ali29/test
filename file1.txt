@@ -3,3 +3,5 @@ line2
 commit with fixes AB#
 commit with fixes #4
 new line
+
+new line to the new branch
